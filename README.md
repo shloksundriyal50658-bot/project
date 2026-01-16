@@ -13,7 +13,7 @@ This project evaluates the structure and performance of a 38-stock portfolio, hi
   <li><strong>Downside Risk:</strong> Current structure may amplify losses during sector downturns.</li>
 </ul>
 
-<h2>📈 Recommendations</h2>
+<h2> Recommendations</h2>
 <ul>
   <li>Reallocate capital from underperformers (e.g., <strong>PCJEWELLER</strong>, <strong>SHRIRAMFIN</strong>) to high-yield sectors like Financials and Consumer Discretionary.</li>
   <li>Monitor exposure to <strong>BAJFINANCE</strong> and <strong>TATAMOTORS</strong> to avoid overconcentration.</li>
